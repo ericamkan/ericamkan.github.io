@@ -19,7 +19,7 @@ body {
 }
 
 a {
-    font-size: 14pt;
+    font-size: 15px;
     color: #696969;
     text-decoration: none;
     font-style: italic;
@@ -31,13 +31,16 @@ a:hover {
 }
 
 h1 {
-    font-size: 20pt;
+    font-size: 19px;
     color: #0000CD;
-
 }
 
-p{
-    font-size: 20pt;
+h2{
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
 }
 
 border: 2px solid #0000000;
